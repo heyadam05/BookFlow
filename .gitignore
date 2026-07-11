@@ -1,0 +1,10 @@
+build/
+.vscode/
+data/*.db
+data/*.json
+data/logs.txt
+backups/
+reports/*.txt
+*.exe
+*.obj
+*.o
