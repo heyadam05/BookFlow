@@ -1,4 +1,5 @@
 build/
+docs/
 .vscode/
 data/*.db
 data/*.json
